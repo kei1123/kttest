@@ -1,1 +1,1 @@
-"# kttest" 
+Kotlinのテスト
